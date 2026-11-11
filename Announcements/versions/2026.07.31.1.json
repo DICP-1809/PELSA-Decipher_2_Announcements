@@ -1,0 +1,218 @@
+{
+  "schema_version": 1,
+  "content_version": "2026.07.31.1",
+  "title": {
+    "zh": "PELSA 最新进展与公告",
+    "en": "PELSA: Latest Updates & Announcements"
+  },
+  "sections": {
+    "updates": {
+      "zh": "近期技术进展",
+      "en": "Recent Technical Advances"
+    },
+    "literature": {
+      "zh": "核心文献",
+      "en": "Key Literature"
+    },
+    "copyright": {
+      "zh": "知识产权保护声明",
+      "en": "IP Protection Statement"
+    },
+    "resources": {
+      "zh": "官方资源与学术社群",
+      "en": "Official Resources & Community"
+    },
+    "contacts": {
+      "zh": "常用联系方式",
+      "en": "Contact"
+    }
+  },
+  "updates": {
+    "zh": [
+      {
+        "id": "zh-update-01",
+        "title": "Nature Protocols发布！一步一步带您做PELSA实验",
+        "description": "完整阐述了从样品制备到数据分析的全流程细节，为在复杂体系发现配体的结合蛋白、结合区域以及测定亲和力提供了方法范本。",
+        "url": "https://mp.weixin.qq.com/s/jFmk1qG0szyDNcMtfx62sQ"
+      },
+      {
+        "id": "zh-update-02",
+        "title": "AutoPELSA自动化平台+东北首套Astral质谱，显著提升配体靶标鉴定能力",
+        "description": "PELSA团队自主研发的AutoPELSA自动化处理平台正式上线，搭配东北地区首套Astral高分辨质谱系统，显著提高了配体标靶鉴定的灵敏度与通量。",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDc0OTkyOA==&mid=2247485177&idx=1&sn=5b20c62580e54c2344ed763ede016e8b&scene=21&poc_token=HDhkaWqjgrmXGS-cPHulq3DI8UKPAk-ADeijY7Vb"
+      },
+      {
+        "id": "zh-update-03",
+        "title": "PELSA-Decipher：PELSA靶蛋白质鉴定方法的专用数据处理软件发布",
+        "description": "该软件实现了从肽段定量数据的差异分析、蛋白质局部稳定性解析到浓度依赖性分析的全流程数据处理；能够展示局部稳定性发生变化的区域，并支持用户自定义目标区域分析。此外，该软件具备灵活的图像定制功能，支持多种输出格式，可批量导出分析报告和可视化图像",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDc0OTkyOA==&mid=2247484562&idx=1&sn=758fbccc6776c5e217a3eeb4858597a0&scene=21&poc_token=HKRiaWqjMDqW0Vvf2Pv5CvNnGU0nQEhGOGNFAfOC"
+      },
+      {
+        "id": "zh-update-04",
+        "title": "从Cell到Nature Methods：小分子结合蛋白质鉴定技术PELSA的艰辛发表历程",
+        "description": "作者主要回顾一下当时为什么觉得应该投Cell，并讨论一下为什么PELSA有比较高的灵敏度以及对于新的分子如何选择合适靶蛋白质鉴定方法。",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDc0OTkyOA==&mid=2247484504&idx=1&sn=1296dd2bcc538f44d281db4888090058&scene=21&poc_token=HGJjaWqj4t9wANXlk1hdV9WxcDA1XTm_FchCVlM6"
+      },
+      {
+        "id": "zh-update-05",
+        "title": "PELSA技术推文合集介绍：从原理到应用",
+        "description": "本文系统汇总了PELSA技术的代表性推文，涉及研发成果、技术原理、性能优势、自动化平台、专用数据分析软件、多种应用场景及代表性研究案例，同时介绍了该技术的对外测试服务、知识产权与成果转化进展，为配体‑靶蛋白相互作用解析、药物靶点发现、中药及天然产物作用机制研究、环境污染物靶点鉴定等领域提供一站式技术方案与实操指南，可广泛服务于生物医药、农业植保、环境科学及基础生命科学等学科的科研与应用需求。",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDc0OTkyOA==&mid=2247485177&idx=1&sn=5b20c62580e54c2344ed763ede016e8b&scene=21&poc_token=HDhkaWqjgrmXGS-cPHulq3DI8UKPAk-ADeijY7Vb"
+      }
+    ],
+    "en": [
+      {
+        "id": "en-update-01",
+        "title": "SP3-PELSA: A rapid and sensitive approach for studying protein-ligand interaction with small-amount samples,J Chen, G Hu, J Song, L Huang, X Zhang - Analytica Chimica Acta, 2026",
+        "description": "Deciphering protein-ligand binding events is essential for unraveling biological pathways and advancing drug development. The recently developed peptide-centric local stability assay (PELSA) has demonstrated superior performance compared to other mainstream approaches. However, the conventional PELSA approach relies on filter-based peptide recovery, which results in prolonged processing time and relatively low yields, particularly when operating with limited starting material. To address these limitations, we present an optimized PELSA approach termed SP3-PELSA, which leverages the simple and efficient peptide recovery of the Single-Pot, Solid-Phase-enhanced Sample Preparation (SP3) method. Through a systematic evaluation of protein precipitation and trypsin inactivation conditions, we identified 1% formic acid and 80% acetonitrile as the optimal condition. A comparative analysis of SP3-PELSA with conventional PELSA revealed that SP3-PELSA reduces the processing time by fivefold and significantly increases the peptide recovery rate, especially for hydrophobic peptides. Consequently, SP3-PELSA outperformed other mainstream approaches in the identification of established drug targets. Owing to its high recovery efficiency and potential for automation, SP3-PELSA holds great promise for large-scale drug target discovery, especially in the context of scarce clinical samples. Furthermore, its exceptional recovery of hydrophobic peptides positions this approach as a powerful tool for analyzing highly hydrophobic proteins in drug target screening.",
+        "url": "https://doi.org/10.1016/j.aca.2026.345436"
+      },
+      {
+        "id": "en-update-02",
+        "title": "High-throughput peptide-centric local stability assay extends protein–ligand identification to membrane proteins, tissues and bacteria Kejia Li, Clement M. Potel, Isabelle Becher, Nico Hüttmann, Martin Garrido-Rodriguez, Jennifer Schwarz, Mira Lea Burtscher，Mikhail M. Savitski，Nature Structural & Molecular Biology，2026",
+        "description": "Systematic mapping of protein–ligand interactions is essential for understanding biological processes and drug mechanisms. Peptide-centric local stability assay (PELSA) is a powerful tool for detecting these interactions and identifying potential binding sites. However, its original workflow is limited in throughput, sample compatibility and accessible protein targets. Here, we introduce a high-throughput adaptation—HT-PELSA—that increases sample processing efficiency by 100-fold while maintaining high sensitivity and reproducibility. HT-PELSA substantially extends the capabilities of the original method by enabling sensitive protein–ligand profiling in crude cell, tissue and bacterial lysates, allowing the identification of membrane protein targets in diverse biological systems. We demonstrate that HT-PELSA can precisely and accurately determine binding affinities of small molecule inhibitors, sensitively detect direct and allosteric ATP binding sites, and reveal off-target interactions of a marketed kinase inhibitor in heart tissue. By enhancing scalability, reducing costs and enabling system-wide drug screening across a wide range of sample types, HT-PELSA—when combined with next-generation mass spectrometry—may offer a powerful platform poised to accelerate both drug discovery and basic biological research.",
+        "url": "https://doi.org/10.1038/s41594-025-01699-y"
+      },
+      {
+        "id": "en-update-03",
+        "title": "AutoPELSA: An Automated Sample Preparation System for Proteome-Wide Identification of Target Proteins of Diverse Ligands, Lianji Xue; Xi Wang; Haiqian Yang; Jiahua Zhou; Haiyang Zhu; Jinhua Shen; Weina Gao; Ruijun Tian; Yan Wang; Mingliang Ye, Analytical Chemistry, (2026)",
+        "description": "Protein–ligand interactions are fundamental to cellular function and drug discovery, and ligand-modification-free strategies have emerged as powerful tools for proteome-wide interrogation of these interactions. Among these, the peptide-centric local stability assay (PELSA) stands out for its high sensitivity. It uses a single digestion step to detect ligand-induced local stability shifts, enabling precise binding region localization and affinity estimation. However, manual PELSA workflows suffer from multiple labor-intensive steps that introduce variability and constrain throughput, limiting large-scale applications. To address these limitations, we developed AutoPELSA, an automated platform that streamlines the PELSA workflow including the limited proteolysis step and the following peptide separation step. AutoPELSA completes 96 samples in ∼4 h, enabling high-throughput analysis under native conditions. AutoPELSA reliably detected targets of both strong-affinity ligands (e.g., staurosporine, identifying 114 kinase targets) and low-affinity ligands, including α-ketoglutarate (30 known targets). Furthermore, a mixed-ligand dose–response strategy enabled simultaneous determination of binding affinities for multiple ligand–protein interaction regions in a single experiment. Overall, AutoPELSA provides a scalable and modification-free platform for proteome-wide identification and affinity profiling of ligand–protein interactions.",
+        "url": "https://doi.org/10.1021/acs.analchem.6c00180"
+      }
+    ]
+  },
+  "literature": {
+    "zh": [
+      {
+        "id": "zh-literature-01",
+        "title": "A peptide-centric local stability assay enables proteome-scale identification of the protein targets and binding regions of diverse ligands,Kejia Li, Shijie Chen, Keyun Wang, Yan Wang, Lianji Xue, Yuying Ye,Zheng Fang , Jiawen Lyu, Haiyang Zhu, Yanan Li, Ting Yu, Feng Yang, Xiaolei Zhang, Siqi Guo, Chengfei Ruan, Jiahua Zhou, Qi Wang, Mingming Dong , Cheng Luo*, Mingliang Ye*, Nature Methods, 2025",
+        "meta": "https://doi.org/10.1038/s41592-024-02553-7",
+        "url": "https://doi.org/10.1038/s41592-024-02553-7"
+      },
+      {
+        "id": "zh-literature-02",
+        "title": "Peptide-centric local stability assay (PELSA) for sensitive identification of ligand-targeting proteins and binding sites at proteome scale，Keyun Wang, Kejia Li, Jiayang Yan, Lianji Xue, Yanni Ma, Haiyang Zhu, Ting Yu, Yan Wang, Mikhail Savitski, Mingliang Ye*, Nature Protocols, 2026",
+        "meta": "https://doi.org/10.1038/s41596-026-01354-w",
+        "url": "https://doi.org/10.1038/s41596-026-01354-w"
+      },
+      {
+        "id": "zh-literature-03",
+        "title": "PELSA-Decipher: A Software Tool for the Processing and Interpretation of Ligand-Protein Interaction Data Sets Acquired by PELSA, Haiyang Zhu, Keyun Wang, Kejia Li, Zheng Fang, Jiahua Zhou, Lianji Xue, Mingliang Ye*, Journal of Proteome Research, 2025",
+        "meta": "https://doi.org/10.1021/acs.jproteome.5c00365",
+        "url": "https://doi.org/10.1021/acs.jproteome.5c00365"
+      }
+    ],
+    "en": [
+      {
+        "id": "en-literature-01",
+        "title": "A peptide-centric local stability assay enables proteome-scale identification of the protein targets and binding regions of diverse ligands,Kejia Li, Shijie Chen, Keyun Wang, Yan Wang, Lianji Xue, Yuying Ye,Zheng Fang , Jiawen Lyu, Haiyang Zhu, Yanan Li, Ting Yu, Feng Yang, Xiaolei Zhang, Siqi Guo, Chengfei Ruan, Jiahua Zhou, Qi Wang, Mingming Dong , Cheng Luo*, Mingliang Ye*, Nature Methods, 2025",
+        "meta": "https://doi.org/10.1038/s41592-024-02553-7",
+        "url": "https://doi.org/10.1038/s41592-024-02553-7"
+      },
+      {
+        "id": "en-literature-02",
+        "title": "Peptide-centric local stability assay (PELSA) for sensitive identification of ligand-targeting proteins and binding sites at proteome scale，Keyun Wang, Kejia Li, Jiayang Yan, Lianji Xue, Yanni Ma, Haiyang Zhu, Ting Yu, Yan Wang, Mikhail Savitski, Mingliang Ye*, Nature Protocols, 2026",
+        "meta": "https://doi.org/10.1038/s41596-026-01354-w",
+        "url": "https://doi.org/10.1038/s41596-026-01354-w"
+      },
+      {
+        "id": "en-literature-03",
+        "title": "PELSA-Decipher: A Software Tool for the Processing and Interpretation of Ligand-Protein Interaction Data Sets Acquired by PELSA, Haiyang Zhu, Keyun Wang, Kejia Li, Zheng Fang, Jiahua Zhou, Lianji Xue, Mingliang Ye*, Journal of Proteome Research, 2025",
+        "meta": "https://doi.org/10.1021/acs.jproteome.5c00365",
+        "url": "https://doi.org/10.1021/acs.jproteome.5c00365"
+      }
+    ]
+  },
+  "copyright_notice": {
+    "paragraphs": {
+      "zh": [
+        "PELSA技术及配套软件PELSA-Decipher欢迎学术界使用。PELSA技术受中国发明专利保护（专利号：ZL 2022 1 1030145.7)，未经书面授权，严禁商业使用。侵权必究，违者将承担相应法律责任。举报邮箱：pelsa_team@vip.163.com"
+      ],
+      "en": [
+        "The patent in China has been granted (Patent No.: ZL 2022 1 1030145.7), while patents in the United States and other territories are pending. PELSA technology and its accompanying software, PELSA-Decipher, are welcome for use for free by the academic community. For commercial use inquiries, please contact: pelsa_team@vip.163.com"
+      ]
+    }
+  },
+  "official_resource": {
+    "zh": {
+      "title": "关注官方公众号，获取 PELSA 技术与服务动态",
+      "description": "获取 PELSA 测试服务、技术进展与软件动态，并与团队及领域研究者保持交流。",
+      "features": [
+        {
+          "title": "测试服务与送样",
+          "description": "最新测试批次、样本要求、送样流程及项目咨询。"
+        },
+        {
+          "title": "文献与技术解读",
+          "description": "PELSA 与配体–靶蛋白互作领域的最新研究进展。"
+        },
+        {
+          "title": "技术答疑与经验分享",
+          "description": "实验设计、样品制备、数据分析与结果解释。"
+        },
+        {
+          "title": "软件更新与使用指南",
+          "description": "软件版本、功能更新、操作教程及重要通知。"
+        }
+      ]
+    },
+    "en": {
+      "title": "Follow Our Official Account for PELSA Updates and Support",
+      "description": "Stay informed about PELSA testing services, technical advances, software releases, and community activities.",
+      "features": [
+        {
+          "title": "Testing Services & Sample Submission",
+          "description": "Testing schedules, sample requirements, submission procedures, and project consultation."
+        },
+        {
+          "title": "Literature & Technical Insights",
+          "description": "Advances in PELSA, ligand–target interactions, and related proteomics technologies."
+        },
+        {
+          "title": "Technical Support & Experience Sharing",
+          "description": "Guidance on experimental design, sample preparation, data analysis, and result interpretation."
+        },
+        {
+          "title": "Software Updates & User Guides",
+          "description": "PELSA-Decipher releases, feature updates, tutorials, and important notices."
+        }
+      ]
+    }
+  },
+  "contacts": [
+    {
+      "id": "contact-01",
+      "label": {
+        "zh": "PELSA测试服务",
+        "en": "PELSA Testing Service"
+      },
+      "value": "pelsa_team@163.com",
+      "url": "mailto:pelsa_team@163.com"
+    },
+    {
+      "id": "contact-02",
+      "label": {
+        "zh": "软件支持",
+        "en": "Software Support"
+      },
+      "value": "pelsa_decipher@163.com",
+      "url": "mailto:pelsa_decipher@163.com"
+    },
+    {
+      "id": "contact-03",
+      "label": {
+        "zh": "侵权举报",
+        "en": "IP Infringement Report"
+      },
+      "value": "pelsa_team@vip.163.com",
+      "url": "mailto:pelsa_team@vip.163.com"
+    }
+  ],
+  "download": {
+    "label": {
+      "zh": "PELSA-Decipher 软件下载",
+      "en": "PELSA-Decipher Download"
+    },
+    "url": "https://github.com/DICP-1809/PELSA-Decipher"
+  }
+}
