@@ -1,8 +1,8 @@
 {
   "manifest_schema": 1,
   "active_version": "2026.07.31.1",
-  "minimum_app_version": "1.6.0.0",
-  "content_url": "https://raw.githubusercontent.com/zhyemqww/PELSA-Decipher_2/announcement/Announcement/versions/2026.07.31.1.json",
+  "minimum_app_version": "2.0.0.0",
+  "content_url": "https://raw.githubusercontent.com/DICP-1809/PELSA-Decipher_2_Announcements/announcements/Announcements/versions/2026.07.31.1.json",
   "published_at": "2026-07-31T14:22:24+08:00",
   "revoked_versions": []
 }
